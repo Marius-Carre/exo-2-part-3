@@ -1,0 +1,21 @@
+
+
+
+nav  ul li {
+    display:inline;
+  
+   
+    }
+    
+@media screen and (max-width: 768px) {
+  
+    
+    nav  ul li {
+        display:block;
+      
+       
+        }
+        
+
+    
+  }
